@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "AGPL",
+  "dependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
